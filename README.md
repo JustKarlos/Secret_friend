@@ -1,4 +1,4 @@
-# Secret Santa
+# Secret Friend
 Organize a fun Secret Santa draw with this web tool!
 
 How does it work?
