@@ -2,6 +2,7 @@
 Organize a fun Secret Santa draw with this web tool!
 
 How does it work?
+
   1.Enter participant names in the text field.
   
   2.Add them to the list using the "Add Name" button.
